@@ -1,0 +1,6 @@
+d:\TimCorey-DotNet\TimCorey-DotNet\OurFirstCoreConsole\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.AssemblyReference.cache
+d:\TimCorey-DotNet\TimCorey-DotNet\OurFirstCoreConsole\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+d:\TimCorey-DotNet\TimCorey-DotNet\OurFirstCoreConsole\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+d:\TimCorey-DotNet\TimCorey-DotNet\OurFirstCoreConsole\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+d:\TimCorey-DotNet\TimCorey-DotNet\OurFirstCoreConsole\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+d:\TimCorey-DotNet\TimCorey-DotNet\OurFirstCoreConsole\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.sourcelink.json
